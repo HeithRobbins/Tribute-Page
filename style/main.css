@@ -11,6 +11,18 @@ body {
   border-radius: 5px;
 }
 
+h3 h2 h1 {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+}
+
+p {
+  font-size: 20px;
+  margin: 40px;
+}
+
 .main {
   display: flex;
   justify-content: center;
